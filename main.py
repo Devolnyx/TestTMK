@@ -17,8 +17,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-pandas
 
-pyodbc
-
-matplotlib
+'This is the test  2 branch'
